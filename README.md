@@ -6,5 +6,7 @@ Welcome to the best roblox script for work at the pizza place
 - features 1 : allows you to autofarm without ever getting banned 
 
 ## facility 
-copy the script.lua and enter it in an executor 
+copy loadstring(game:HttpGet("https://raw.githubusercontent.com/zeidenweb/scriptwatpp/main/script.lua"))()
+
+and enter it in an executor 
 free executor : discord.gg/
